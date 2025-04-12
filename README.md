@@ -62,8 +62,8 @@
 
 > Build on your Windows and infra strengths.
 
-- [ ] Windows security baselining (CIS Benchmarks ✅)
-- [ ] Understand Group Policy for security
+- [✅] Windows security baselining (CIS Benchmarks, GPO Baslines)
+- [✅] Understand Group Policy for security
 - [ ] Windows Defender & Defender for Endpoint
 - [ ] Patch management strategies
 - [ ] Linux basics: users, permissions, firewalls (ufw/iptables)
@@ -82,7 +82,7 @@
 - [ ] PowerShell for security automation
 - [ ] Write scripts to audit security settings
 - [ ] Scheduled tasks for log collection/alerting
-- [ ] Basic Python (optional, for wider tooling)
+- [ ] Basic Python
 - [ ] Automate remediation tasks
 
 **Resources:**
@@ -126,13 +126,10 @@
 ---
 
 ### 🎓 Certifications (Optional, Milestones)
-
-> Optional validation for your skills.
-
 - [ ] Microsoft SC-200: Security Operations Analyst
 - [ ] CompTIA Security+ (Good foundation cert)
-- [ ] CompTIA CySA+ (More advanced, SOC focus)
-- [ ] Azure Security Engineer (if interested in cloud)
+- [ ] CompTIA CySA+ SOC focus
+- [ ] Azure Security Engineer
 
 ---
 
