@@ -18,6 +18,16 @@
 - [ ] Projects & Portfolio
 - [ ] Continuous Learning & Community
 
+# 🔒 My Security Engineer Journey
+
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-100%25-green)](https://tryhackme.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Repo-blue)](https://github.com/yourusername)
+[![CompTIA](https://img.shields.io/badge/CompTIA_Security%2B-Progress-green)](https://www.comptia.org/certifications/security)
+
+---
+
+# 🚀 Journey Breakdown (as previously provided)
+
 ---
 
 ## 🧩 Roadmap Breakdown
