@@ -2,9 +2,7 @@
 
 *A practical, no-pressure roadmap to track my growth into Security Engineering, building on my strong Windows and infrastructure background.*
 
-*Remember: life happens! Progress over perfection. The goal is steady, sustainable learning, not burnout.*
-
-🎯 **Target Goal:** End of 2025
+🎯 **Target Goal:** End of 2025 (Flexible!)
 
 ---
 
@@ -36,138 +34,138 @@
 - [ ] Practice network troubleshooting (ping, tracert, netstat)
 
 **Resources:**
-- Free: Cisco Networking Basics on YouTube
-- Optional: CompTIA Network+ (but not essential!)
+- Cisco Networking Basics on YouTube
+- TryHackMe: Network Fundamentals
+- Optional: CompTIA Network+ (not essential!)
 
 ---
 
 ### 🔐 Foundation: Security Fundamentals _(Beginner → Intermediate)_
 
-> Build a strong base in security concepts to apply across tools and roles.
+> Build a strong base in security concepts.
 
 - [ ] CIA Triad: Confidentiality, Integrity, Availability
-- [ ] Principles of least privilege & zero trust
-- [ ] Authentication vs Authorization
-- [ ] Basic cryptography: hashing, encryption
-- [ ] Understand threat actors & threat modelling
-- [ ] Security frameworks: NIST, CIS Controls, MITRE ATT&CK
+- [ ] Principles of least privilege, defense in depth
+- [ ] Common attack types: phishing, ransomware, DDoS
+- [ ] Introduction to threat intelligence (IOCs, TTPs)
+- [ ] Basic security terminology: risk, vulnerability, threat, exploit
 
 **Resources:**
-- Free: Cyber Security Full Course (Simplilearn / freeCodeCamp)
-- MITRE ATT&CK Navigator (interactive!)
+- TryHackMe: Cybersecurity Introduction
+- YouTube: NetworkChuck Cybersecurity Basics
+- OWASP Top 10 (Web app risks — optional intro)
 
 ---
 
-### 🖥️ OS Hardening & Security _(Intermediate)_
+### 🖥️ Operating System Hardening & Security _(Intermediate)_
 
-> Build on your Windows and infra strengths.
+> Build on your existing skills in OS security and hardening.
 
-- [✅] Windows security baselining (CIS Benchmarks, GPO Baslines)
-- [✅] Understand Group Policy for security
-- [ ] Windows Defender & Defender for Endpoint
+- [ ] Windows hardening best practices
+- [ ] CIS Benchmarks: Windows Server & Workstation
+- [ ] Audit policies and event logs
+- [ ] Active Directory basics for security
+- [ ] Linux basics: file permissions, basic hardening
+
+**Resources:**
+- CIS Benchmarks (Free registration)
+- Microsoft Security Compliance Toolkit
+- TryHackMe: Windows Fundamentals
+- AD Security: harmj0y blog
+
+---
+
+### ⚙️ Scripting & Automation _(Intermediate)_
+
+> Use PowerShell (your strength!) to automate security tasks.
+
+- [ ] PowerShell: Automate hardening tasks
+- [ ] Write scripts for log analysis
+- [ ] Use PowerShell to query AD
+- [ ] Automate vulnerability scans (e.g., with Nessus or OpenVAS)
+
+**Resources:**
+- PowerShell for Cybersecurity (YouTube / Pluralsight)
+- PowerShell Empire (Red team optional lab)
+
+---
+
+### 🛡️ Vulnerability Management _(Intermediate → Advanced)_
+
+> Learn how to find, assess, and remediate vulnerabilities.
+
+- [ ] Understand CVEs, CVSS scoring
+- [ ] Use vulnerability scanners (OpenVAS, Nessus Essentials)
 - [ ] Patch management strategies
-- [ ] Linux basics: users, permissions, firewalls (ufw/iptables)
-- [ ] Secure configurations for Linux
+- [ ] Remediation workflows
+- [ ] Reporting and risk prioritisation
 
 **Resources:**
-- CIS Benchmarks (free!)
-- Microsoft Learn: Windows Security
+- Nessus Essentials (Free)
+- OpenVAS (Free)
+- TryHackMe: Vulnerability Management
 
 ---
 
-### 🧩 Scripting & Automation _(Intermediate → Advanced)_
+### 🧪 Practical Labs & Tools _(Ongoing Practice)_
 
-> Leverage PowerShell strengths for security automation!
+> Hands-on experience with tools used in the field.
 
-- [ ] PowerShell for security automation
-- [ ] Write scripts to audit security settings
-- [ ] Scheduled tasks for log collection/alerting
-- [ ] Basic Python
-- [ ] Automate remediation tasks
+- [ ] SIEM basics (e.g., Splunk free tier, Elastic SIEM)
+- [ ] EDR concepts (CrowdStrike / Defender for Endpoint demo)
+- [ ] Wireshark: Packet analysis
+- [ ] Burp Suite (Community Edition)
+- [ ] Sysinternals Suite
+- [ ] TryHackMe / HackTheBox labs
 
 **Resources:**
-- PowerShell: "PowerShell for Cybersecurity" (YouTube/Docs)
-- Python: "Automate the Boring Stuff" (free)
+- TryHackMe: SOC Level 1 Learning Path
+- Splunk Fundamentals 1 (Free)
 
 ---
 
-### 🕵️ Vulnerability Management _(Intermediate)_
+### 🏅 Certifications (Optional but recommended)
 
-> Expand your experience with scanning and remediation.
+> Not essential, but can help with job market visibility.
 
-- [ ] Vulnerability lifecycle: identification > assessment > remediation > reporting
-- [ ] Tools: Nessus / OpenVAS / Microsoft Defender Vulnerability Management
-- [ ] Understand CVSS scoring
-- [ ] Reporting vulnerabilities effectively
-- [ ] Prioritisation strategies
-
-**Resources:**
-- Nessus Essentials (free for learners!)
-- CVSS Calculator
+- [ ] CompTIA Security+ (Great foundational cert)
+- [ ] Microsoft SC-200 (Security Operations Analyst)
+- [ ] CompTIA CySA+ (Analyst level)
+- [ ] Optional: Blue Team Level 1 (BTL1) — very practical
 
 ---
 
-### 🛠️ Practical Labs & Tools _(Hands-on)_
+### 💼 Projects & Portfolio (Optional but powerful!)
 
-> Get your hands dirty with real-world tools.
+> Build demonstrable skills for your CV and LinkedIn.
 
-- [ ] Set up a home lab (VirtualBox / Proxmox ✅)
-- [ ] SIEM basics (e.g., Splunk / Elastic)
-- [ ] IDS/IPS (Suricata / Snort)
-- [ ] Endpoint Detection & Response (EDR) concepts
-- [ ] Packet analysis with Wireshark
-- [ ] Explore TryHackMe: SOC Level 1 Path
-- [ ] Explore Microsoft Sentinel (cloud SOC)
-
-**Resources:**
-- TryHackMe (affordable, guided)
-- Splunk Fundamentals 1 (free)
+- [ ] Build and document a home lab (Windows AD + Linux VM)
+- [ ] Create PowerShell scripts for automation tasks
+- [ ] Document CIS hardening benchmarks applied
+- [ ] Write a blog post about vulnerability scanning
+- [ ] Set up a basic SIEM and log some events!
+- [ ] Track progress in this GitHub repo
 
 ---
 
-### 🎓 Certifications (Optional, Milestones)
-- [ ] Microsoft SC-200: Security Operations Analyst
-- [ ] CompTIA Security+ (Good foundation cert)
-- [ ] CompTIA CySA+ SOC focus
-- [ ] Azure Security Engineer
+### 🌱 Continuous Learning & Community
+
+> Stay connected and keep learning.
+
+- [ ] Follow security news (KrebsOnSecurity, The Hacker News)
+- [ ] Join cybersecurity communities (Reddit: r/netsec, Discord: TryHackMe)
+- [ ] Subscribe to threat intelligence feeds
+- [ ] Attend webinars or local meetups
 
 ---
 
-### 💼 Projects & Portfolio
+## 🚀 Notes to Self
 
-> Build proof of work for your GitHub or resume!
-
-- [ ] Document home lab setup and configs
-- [ ] Create PowerShell security audit script
-- [ ] Write up a vulnerability assessment report (lab exercise)
-- [ ] Build a mini incident response playbook
-- [ ] Document hardening steps using CIS Benchmarks
-- [ ] Contribute to open-source security tool (optional, stretch goal)
+- Take breaks, no burnout! Life events (moving, family) are priorities.
+- Flexible target: **End of 2025** — but enjoy the journey at your own pace.
+- Update this roadmap as I go and tick off milestones ✅
+- When ready, use this progress to align my CV and LinkedIn!
 
 ---
 
-### 🔄 Continuous Learning & Community
-
-> Keep skills fresh and connect with others.
-
-- [ ] Join security forums (Reddit r/netsec, TechExams, etc.)
-- [ ] Follow threat intelligence feeds (Krebs on Security, etc.)
-- [ ] Attend webinars / virtual conferences (BSides, etc.)
-- [ ] Consider CTFs (Capture the Flag challenges) for fun
-
----
-
-## 🚀 Notes & Reflections
-
-> Use this space to jot down key learnings, thoughts, or progress updates.
-
-- *Example:* "Completed PowerShell security script"
-- *Example:* "TryHackMe SOC1 path complete ✅"
-
----
-
-## 🎯 End Goal Reminder
-
-**Target:** *By end of 2025*
----
-
+*“Slow is smooth, smooth is fast.”*
