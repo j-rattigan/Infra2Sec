@@ -2,6 +2,8 @@
 
 *A practical, no-pressure roadmap to track my growth into Security Engineering, building on my strong Windows and infrastructure background.*
 
+*Remember: life happens! Progress over perfection. The goal is steady, sustainable learning, not burnout.*
+
 🎯 **Target Goal:** End of 2025
 
 ---
@@ -127,7 +129,7 @@
 
 > Optional validation for your skills.
 
-- [ ] Microsoft SC-200: Security Operations Analyst ✅ (Highly recommended for your background!)
+- [ ] Microsoft SC-200: Security Operations Analyst
 - [ ] CompTIA Security+ (Good foundation cert)
 - [ ] CompTIA CySA+ (More advanced, SOC focus)
 - [ ] Azure Security Engineer (if interested in cloud)
@@ -139,13 +141,11 @@
 > Build proof of work for your GitHub or resume!
 
 - [ ] Document home lab setup and configs
-- [ ] Create PowerShell security audit script ✅
+- [ ] Create PowerShell security audit script
 - [ ] Write up a vulnerability assessment report (lab exercise)
 - [ ] Build a mini incident response playbook
-- [ ] Document hardening steps using CIS Benchmarks ✅
+- [ ] Document hardening steps using CIS Benchmarks
 - [ ] Contribute to open-source security tool (optional, stretch goal)
-
-**Tip:** Use your GitHub repo to log progress, lessons learned, and scripts!
 
 ---
 
@@ -164,16 +164,13 @@
 
 > Use this space to jot down key learnings, thoughts, or progress updates.
 
-- *Example:* "Completed PowerShell security script — posted to GitHub!"
+- *Example:* "Completed PowerShell security script"
 - *Example:* "TryHackMe SOC1 path complete ✅"
 
 ---
 
 ## 🎯 End Goal Reminder
 
-**Target:** *By end of 2025* (Flexible!)
-
-*Remember: life happens! Progress over perfection. The goal is steady, sustainable learning, not burnout.*
-
+**Target:** *By end of 2025*
 ---
 
