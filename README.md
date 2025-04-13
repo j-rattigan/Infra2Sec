@@ -25,14 +25,9 @@
 [![CompTIA](https://img.shields.io/badge/CompTIA_Security%2B-Progress-green)](https://www.comptia.org/certifications/security)
 
 ---
-
-# 🚀 Journey Breakdown (as previously provided)
-
----
-
 ## 🧩 Roadmap Breakdown
 
-### 🌐 Foundation: Networking Basics _(Beginner → Intermediate)_
+### 🌐 Foundation: Networking Basics
 
 > Aim: Build "enough to be dangerous" understanding of networking concepts.
 
@@ -50,10 +45,7 @@
 
 ---
 
-### 🔐 Foundation: Security Fundamentals _(Beginner → Intermediate)_
-
-> Build a strong base in security concepts.
-
+### 🔐 Foundation: Security Fundamentals
 - [ ] CIA Triad: Confidentiality, Integrity, Availability
 - [ ] Principles of least privilege, defense in depth
 - [ ] Common attack types: phishing, ransomware, DDoS
@@ -67,7 +59,7 @@
 
 ---
 
-### 🖥️ Operating System Hardening & Security _(Intermediate)_
+### 🖥️ Operating System Hardening & Security
 
 > Build on your existing skills in OS security and hardening.
 
@@ -85,10 +77,8 @@
 
 ---
 
-### ⚙️ Scripting & Automation _(Intermediate)_
-
-> Use PowerShell (your strength!) to automate security tasks.
-
+### ⚙️ Scripting & Automation
+> Use PowerShell to automate security tasks.
 - [ ] PowerShell: Automate hardening tasks
 - [ ] Write scripts for log analysis
 - [ ] Use PowerShell to query AD
@@ -100,7 +90,7 @@
 
 ---
 
-### 🛡️ Vulnerability Management _(Intermediate → Advanced)_
+### 🛡️ Vulnerability Management
 
 > Learn how to find, assess, and remediate vulnerabilities.
 
@@ -134,10 +124,7 @@
 
 ---
 
-### 🏅 Certifications (Optional but recommended)
-
-> Not essential, but can help with job market visibility.
-
+### 🏅 Certifications
 - [ ] CompTIA Security+ (Great foundational cert)
 - [ ] Microsoft SC-200 (Security Operations Analyst)
 - [ ] CompTIA CySA+ (Analyst level)
@@ -145,10 +132,7 @@
 
 ---
 
-### 💼 Projects & Portfolio (Optional but powerful!)
-
-> Build demonstrable skills for your CV and LinkedIn.
-
+### 💼 Projects & Portfolio
 - [ ] Build and document a home lab (Windows AD + Linux VM)
 - [ ] Create PowerShell scripts for automation tasks
 - [ ] Document CIS hardening benchmarks applied
@@ -159,9 +143,6 @@
 ---
 
 ### 🌱 Continuous Learning & Community
-
-> Stay connected and keep learning.
-
 - [ ] Follow security news (KrebsOnSecurity, The Hacker News)
 - [ ] Join cybersecurity communities (Reddit: r/netsec, Discord: TryHackMe)
 - [ ] Subscribe to threat intelligence feeds
@@ -170,9 +151,8 @@
 ---
 
 ## 🚀 Notes to Self
-
 - Take breaks, no burnout! Life events (moving, family) are priorities.
-- Flexible target: **End of 2025** — but enjoy the journey at your own pace.
+- Flexible target: **End of 2025** — but enjoy the at your own pace.
 - Update this roadmap as I go and tick off milestones ✅
 - When ready, use this progress to align my CV and LinkedIn!
 
