@@ -28,9 +28,6 @@
 ## 🧩 Roadmap Breakdown
 
 ### 🌐 Foundation: Networking Basics
-
-> Aim: Build "enough to be dangerous" understanding of networking concepts.
-
 - [ ] Understand OSI & TCP/IP models
 - [ ] Common protocols: TCP, UDP, ICMP, HTTP(S), DNS, DHCP
 - [ ] What is a firewall? IDS vs IPS
